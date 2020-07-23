@@ -287,3 +287,7 @@
 
 #### WWDC20 10011 - Author fragmented MPEG-4 content with AVAssetWriter
 - 作者：DengXiaoBai，iOS 初级开发者，目前就职于字节跳动直播中台团队
+
+#### WWDC20 10035 - Widgets Code-along, part 2: Alternate timelines
+- 作者：MonAster，iOS 初级开发者，目前就职于字节跳动海豚股票团队
+- GitHub: https://github.com/AsterW
